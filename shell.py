@@ -3,7 +3,7 @@
 def shell():
     import traceback,readline,termcolor
     #from termcolor import colored
-    print(">>> # moonshell")
+    print(">>> # pyshell")
     print(">>> # by bufferbandit")
     while 1:
         try:
